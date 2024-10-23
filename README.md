@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Raphael Costa Marinho, a Full Stack Developer currently working at AEC, passionate about building efficient and scalable applications.
+I'm Raphael Costa Marinho, a Full Stack Developer currently working at AeC, passionate about building efficient and scalable applications.
 
 ### 🛠️ Tech Stack
 **Frontend**: 
